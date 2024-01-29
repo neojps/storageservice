@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Application.Dto/bin
+/Application.Dto/obj/Debug/net6.0
+/Application.Dto/obj/Release/net6.0
+/Application.Service/bin
+/Application.Service/obj/Debug/net6.0
+/Application.Service/obj/Release/net6.0
+/StorageService/bin
+/StorageService/obj
+/Application.Dto/obj
+/Application.Service/obj
+/Unit.Tests/bin/Debug/net6.0
+/Unit.Tests/obj
+/StorageService/tmp
